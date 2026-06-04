@@ -4,6 +4,7 @@ numpy
 pandas
 scikit-learn
 joblib
+xgboost
 opencv-python-headless
 mediapipe
 python-multipart
